@@ -100,3 +100,6 @@ The AI Voice Assistant with ChatGPT integration fulfills all the required functi
 5.	Audio Playback: The generated audio response is played back to the user through the Gradio interface, completing the interaction.
 In summary, the task has been successfully implemented, and the system functions as expected, providing a fully interactive voice assistant that leverages state-of-the-art AI technologies for natural language processing and speech synthesis.
 
+![image](https://github.com/user-attachments/assets/53bcf74d-f99b-4901-8637-dc8ac6d6dd44)
+
+
